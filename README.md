@@ -5,6 +5,5 @@
 
 - 🐛 Fun fact **I don't make bugs. I create undocumented features.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
